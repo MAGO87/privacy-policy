@@ -1,2 +1,2 @@
-# privacy-policy
+# MAGO App
 Privacy Policy
